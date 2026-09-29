@@ -1,0 +1,30 @@
+{
+  "nav": {
+    "home": "Home",
+    "shop": "Shop",
+    "artisans": "Artisans",
+    "stories": "Stories",
+    "cart": "Cart",
+    "wishlist": "Wishlist",
+    "account": "Account",
+    "search": "Search"
+  },
+  "hero": {
+    "title": "Crafted by Her. Inspired by Odisha.",
+    "subtitle": "Discover handmade creations from women artisans of Odisha.",
+    "cta": "Explore Crafts",
+    "ctaSecondary": "Meet the Artisans"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete"
+  },
+  "empty": {
+    "title": "Nothing here yet",
+    "description": "Check back later for new updates."
+  }
+}
