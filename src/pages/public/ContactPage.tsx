@@ -11,8 +11,8 @@ export default function ContactPage() {
   };
 
   const contacts = [
-    { icon: '📧', label: 'Email', value: 'hello@odcrafts.com', href: 'mailto:hello@odcrafts.com' },
-    { icon: '📱', label: 'WhatsApp', value: '+91 99999 99999', href: 'https://wa.me/919999999999' },
+    { icon: '📧', label: 'Email', value: 'oditechofficial@gmail.com', href: 'mailto:oditechofficial@gmail.com' },
+    { icon: '📱', label: 'WhatsApp', value: '+91 91246 70012', href: 'https://wa.me/9124670012' },
     { icon: '📍', label: 'Office', value: 'Bhubaneswar, Odisha — 751001' },
     { icon: '🕐', label: 'Hours', value: 'Mon–Sat, 9 AM – 6 PM IST' },
   ];
@@ -57,7 +57,7 @@ export default function ContactPage() {
             </div>
             <div className="bg-[#1a0e08] rounded-2xl p-6 text-white">
               <p className="text-xs font-bold uppercase tracking-widest text-[#e8c49a] mb-2">Artisan Support</p>
-              <p className="text-sm text-white/70 leading-relaxed">Are you an artisan needing help with your account, payments, or listings? Contact our dedicated artisan support line at <a href="mailto:artisans@odcrafts.com" className="text-[#e8c49a] hover:underline">artisans@odcrafts.com</a></p>
+              <p className="text-sm text-white/70 leading-relaxed">Are you an artisan needing help with your account, payments, or listings? Contact our dedicated artisan support line at <a href="mailto:oditechofficial@gmail.com" className="text-[#e8c49a] hover:underline">oditechofficial@gmail.com</a></p>
             </div>
           </div>
 

@@ -97,8 +97,8 @@ export function Navbar() {
                 isTransparent ? 'drop-shadow-sm' : ''
               }`}
             >
-              <img src="/logo.png" alt="ODCRAFTS Logo" className="h-10 w-auto object-contain drop-shadow-sm" />
-              <span className={`text-xl font-serif font-bold tracking-tight ${isTransparent ? 'text-white' : 'text-primary'}`}>
+              <img src="/logo.png" alt="ODCRAFTS Logo" className="h-8 md:h-10 w-auto object-contain drop-shadow-sm" />
+              <span className={`text-lg md:text-xl font-serif font-bold tracking-tight ${isTransparent ? 'text-white' : 'text-primary'}`}>
                 ODCRAFTS
               </span>
             </Link>
