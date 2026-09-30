@@ -125,7 +125,7 @@ export function Navbar() {
             <Link
               to="/shop"
               aria-label={t('nav.search', 'Search')}
-              className={iconButtonClass}
+              className={`hidden sm:block ${iconButtonClass}`}
             >
               <Search className="h-5 w-5" />
             </Link>
